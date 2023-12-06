@@ -19,7 +19,6 @@ const quote_string = `https://api.socket.tech/v2/quote?fromChainId=${fromChainId
 const endpoint = quote_string
 
 console.log(socket_api)
-// axios.defaults.headers.common['Authorization'] = `Bearer ${socket_api}`;
 
 const headers = {
   'API-KEY': socket_api,
