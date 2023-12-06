@@ -1,0 +1,3 @@
+[submodule "frontend_bridge/starter_dapp"]
+	path = frontend_bridge/starter_dapp
+	url = https://github.com/jaimindp/starter_dapp
